@@ -7,8 +7,8 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 [![OpenDigger](https://img.shields.io/badge/Powered%20by-OpenDigger-orange.svg)](https://github.com/X-lab2017/open-digger)
+[![Puppeteer](https://img.shields.io/badge/Powered%20by-OpenDigger-orange.svg)](https://github.com/OpenBMB/ChatDev)
 
-[English](README_EN.md) | 简体中文
 
 </div>
 
