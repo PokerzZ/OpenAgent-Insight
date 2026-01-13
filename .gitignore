@@ -204,3 +204,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# OpenScope Specific
+ChatDev/opendigger/data_warehouse/
+ChatDev/puppeteer/logs/
+ChatDev/puppeteer/results/
+ChatDev/puppeteer/checkpoint/
+
+# Node modules
+**/node_modules/
+node_modules/
+
+# Backup files
+*.bak
+*.backup
+*.backup.*
+
