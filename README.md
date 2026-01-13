@@ -520,8 +520,8 @@ OpenScope 的开发基于以下优秀的开源项目：
 
 ## 📬 联系我们
 
-- **Issues**：[提交 Issue](https://github.com/yourusername/OpenScope/issues)
-- **讨论**：[GitHub Discussions](https://github.com/yourusername/OpenScope/discussions)
+- **Issues**：[提交 Issue](https://github.com/PokerzZ/OpenScope/issues)
+- **讨论**：[GitHub Discussions](https://github.com/PokerzZ/OpenScope/discussions)
 
 ---
 
